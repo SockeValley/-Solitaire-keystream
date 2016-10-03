@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 ## Filnamn: deck.py
 ## 2016-10-02 Sokrates Lamprou
 ## IP1, Linköpings universitet

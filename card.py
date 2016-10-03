@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 ## Filnamn: sokoban.py
 ## 2016-10-03s Sokrates Lamprou
 ## IP1, Linköpings universitet

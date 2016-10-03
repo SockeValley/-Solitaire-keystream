@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 ## Filnamn: solitaire.py
 ## 2016-10-03 Sokrates Lamprou
 ## IP1, Linköpings universitet
